@@ -1,5 +1,5 @@
 # Java_sort
-sorting algorithms:
+Sorting algorithms:
 - Insertion
 - Selection
 - Shell
