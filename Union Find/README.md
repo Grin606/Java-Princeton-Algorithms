@@ -1,5 +1,3 @@
-# Java_union-find
-Union find problem based on Robert Sedgewick's "Algorithms"
 
 Worst-case time of algorithms (M union-find operations on a set of N objects):
 - Quick-Find = M N
