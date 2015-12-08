@@ -29,11 +29,12 @@ public class Insertion
 		a[i] = a[j];
 		a[j] = swap;
 	}
-	
+	/*
 	private static boolean isSorted(Comparable[] a)
 	{
 		for (int i = 1; i < a.length; ++i)
 			if (less(a[i], a[i-1]))	return false;
 		return true;
 	}
+	*/
 }
