@@ -1,4 +1,3 @@
-# Java_sort
 Sorting algorithms:
 - Insertion
 - Selection
