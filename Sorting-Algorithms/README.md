@@ -1,4 +1,4 @@
-Sorting algorithms:
+Sorting algorithms implementation:
 - Insertion
 - Selection
 - Shell
